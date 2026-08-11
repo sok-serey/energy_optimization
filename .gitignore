@@ -1,0 +1,9 @@
+# MATLAB/Simulink generated files
+slprj/
+*.slxc
+*.slx.r2024a
+*.slx.r2022b
+*.mat
+*.l
+*.mdl
+*.asv
