@@ -1,9 +1,29 @@
-# MATLAB/Simulink generated files
+# MATLAB / Simulink Cache and Temporary Files
 slprj/
+sf_prj/
 *.slxc
 *.slx.r2024a
 *.slx.r2022b
+*.asv
+*.autosave
+*.bak
+*.tmp
+~*.slx
+~*.m
+
+# MATLAB Data and Variables (keep repository lean)
 *.mat
+*.fig
 *.l
 *.mdl
-*.asv
+
+# Code Composer Studio / Compiler Temporary Files
+*.obj
+*.d
+*.map
+!*/CCS_Project/*
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
